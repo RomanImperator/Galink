@@ -1,6 +1,6 @@
 # 📱 Galink – L'app scolastica dell'I.T.S. G. Galilei
 
-ClasseX è un'app mobile Android sviluppata dagli studenti **Marco Francese** e **Gianluca Capasso**, pensata per rivoluzionare la comunicazione e l'interazione all'interno della scuola.
+Galink è un'app mobile Android sviluppata dagli studenti **Marco Francese** e **Gianluca Capasso**, pensata per rivoluzionare la comunicazione e l'interazione all'interno della scuola.
 
 L'app consente a studenti e rappresentanti di:
 - Ricevere circolari e avvisi importanti
